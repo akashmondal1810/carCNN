@@ -1,0 +1,7 @@
+sklearn
+keras
+scikit-image
+flask 
+gevent 
+requests 
+pillow
