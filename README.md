@@ -2,7 +2,7 @@
 A simple convolutional neural network for *car recognizer* using `keras` library that achieves over *95%* accuracy
 
 ## Setup:
-- Simply `pip install -r dependencies.txt` or 
+- Simply `pip install -r dependencies.txt` or  
 - Install `sklearn` using `sudo pip install sklearn`
 - Install `keras` using `sudo pip install keras`
 - Install `skimage` using `sudo pip install scikit-image`
