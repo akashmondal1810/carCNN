@@ -22,3 +22,5 @@ A simple convolutional neural network for *car recognizer* using `keras` library
 
 ## Keras REST API :
 - run the server `run_keras_server.py`
+- Submit a request via cURL `curl -X POST -F image=@imagename.jpg 'http://localhost:5000/predict'`
+- Submita a request via Python `python simple_request.py`
