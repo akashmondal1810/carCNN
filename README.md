@@ -19,3 +19,6 @@ A simple convolutional neural network for *car recognizer* using `keras` library
 
 ## Execute:
 `python predict.py` for prediction
+
+## Keras REST API :
+- run the server `run_keras_server.py`
